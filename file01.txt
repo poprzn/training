@@ -1,1 +1,3 @@
 Propozitie simpla.
+
+Adaug ceva in modul develop.
