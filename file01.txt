@@ -1,3 +1,7 @@
 Propozitie simpla.
 
+<<<<<<< HEAD
 Plus inca ceva.
+=======
+Adaug ceva in modul develop.
+>>>>>>> develop
