@@ -1,8 +1,4 @@
-package ro.fasttrackit.course3;
-
-import ro.fasttrackit.course3.model.Professor;
-
-import java.util.Date;
+package course3;
 
 public class ProfessorClass {
 

@@ -1,8 +1,5 @@
-package ro.fasttrackit.course3;
+package course3;
 
-import ro.fasttrackit.course3.model.Professor;
-
-import javax.xml.transform.Result;
 import java.util.Calendar;
 import java.util.Date;
 

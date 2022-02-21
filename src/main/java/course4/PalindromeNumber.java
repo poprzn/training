@@ -1,10 +1,10 @@
 package course4;
 
-public class PalindromeNumbers<y, x> {
+public class PalindromeNumber {
 
     public static void main(String[] args) {
 
-        int a = 121;
+        int a = 12221;
         int b = a;
         int c = 0;
 

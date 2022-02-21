@@ -10,6 +10,7 @@ public class StudentAndProfessorClass implements Humans {
 
     public void move() {
         System.out.println("moves legs");
+
     }
 
     @Override
@@ -17,11 +18,16 @@ public class StudentAndProfessorClass implements Humans {
         return "UBB";
     }
 
-
     @Override
     public boolean isAlive() {
         return true;
     }
+
+    @Override
+    public String numberOfFingers() {
+        return "10";
+    }
+
 
     public String toString() {
         return "Human{" +

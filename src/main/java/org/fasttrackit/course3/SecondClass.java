@@ -1,2 +1,4 @@
-package org.fasttrackit.course3;public class SecondClass {
+package org.fasttrackit.course3;
+
+public class SecondClass {
 }

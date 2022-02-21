@@ -1,4 +1,4 @@
-package ro.fasttrackit.course3.model;
+package course3;
 
 import java.util.Date;
 
