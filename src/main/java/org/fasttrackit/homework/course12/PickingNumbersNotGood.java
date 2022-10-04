@@ -2,7 +2,7 @@ package org.fasttrackit.homework.course12;
 
 import java.util.List;
 
-public class PickingNumbers {
+public class PickingNumbersNotGood {
 
     public static int pickingNumbers(List<Integer> a) {
         int maxResult = -1;

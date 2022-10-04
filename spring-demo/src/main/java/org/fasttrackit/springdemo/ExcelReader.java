@@ -13,9 +13,10 @@ public class ExcelReader {
     public static void main(String[] args) throws IOException {
 
         // Creating a Workbook from an Excel file (.xls or .xlsx)
-       // Workbook workbook = WorkbookFactory.create(new File(SAMPLE_XLSX_FILE_PATH));
+       //Workbook workbook = WorkbookFactory.create(new File(SAMPLE_XLSX_FILE_PATH));
         Workbook workbook = WorkbookFactory.create(ExcelReader.class.getClassLoader()
                 .getResourceAsStream("sample-model.xls"));
+
 
         // Retrieving the number of sheets in the Workbook
         System.out.println("Workbook has " + workbook.getNumberOfSheets() + " Sheets : ");

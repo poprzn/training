@@ -16,7 +16,6 @@ public class AssignmentRepository <T extends Assignment> {
         if (toAdd == null) {
             throw new ValidationException("toAdd is not valid");
         }
-        //TODO add validation with exception
         assignmentList.add(toAdd);
         }
 
@@ -83,6 +82,7 @@ public class AssignmentRepository <T extends Assignment> {
                 .collect(Collectors.toList());
     }
 }
+
 
 
 

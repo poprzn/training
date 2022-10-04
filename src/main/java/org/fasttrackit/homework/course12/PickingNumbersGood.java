@@ -2,7 +2,7 @@ package org.fasttrackit.homework.course12;
 
 import java.util.List;
 
-public class PickingNumbersF {
+public class PickingNumbersGood {
 
     public static int pickingNumbers(List<Integer> a) {
         int[] arr = new int[101];
