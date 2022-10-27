@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-demo/src/main/main.iml" filepath="$PROJECT_DIR$/spring-demo/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/university-app/src/main/main1.iml" filepath="$PROJECT_DIR$/university-app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ro.fasttrackit.university/ro.fasttrackit.university.iml" filepath="$PROJECT_DIR$/ro.fasttrackit.university/ro.fasttrackit.university.iml" />
+      <module fileurl="file://$PROJECT_DIR$/university-app/src/test/test.iml" filepath="$PROJECT_DIR$/university-app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo/src/test/test1.iml" filepath="$PROJECT_DIR$/spring-demo/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training.iml" filepath="$PROJECT_DIR$/training.iml" />
+    </modules>
+  </component>
+</project>
